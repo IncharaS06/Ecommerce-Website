@@ -22,8 +22,6 @@ A full-featured **Ecommerce Web Application** built with the **MERN stack** (Mon
 | Authentication | JWT + bcrypt                       |
 | APIs         | RESTful APIs for communication      |
 
-## 📁 Project Structure
-
 
 ## 📦 Installation & Setup
 
